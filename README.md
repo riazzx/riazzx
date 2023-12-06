@@ -1,16 +1,15 @@
-Hi! riazzx here.
-<h1 align="center">Hi 👋, I'm Mir Riaz +</h1>
+<h1 align="center">Hi 👋, I'm Mir Riaz Ali!</h1>
 <h3 align="center">A passionate full stack developer and a recent graduate from Middlesex University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riazzx&label=Profile%20views&color=0e75b6&style=flat" alt="riazzx" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riazzx" alt="riazzx" /></a> </p>
 
-- 🌱 I’m currently learning **React and Webflow.**
+- 🌱 I’m currently learning **React, NextJS, Tailwind, ShadCN and Webflow.**
 
 - 👨‍💻 All of my projects are available at [riazzx.github.io/portfolio](riazzx.github.io/portfolio)
 
-- 💬 Ask me about **React, Vue, NodeJS**
+- 💬 Ask me about **React, Next, Tailwind, Vue, NodeJS**
 
 - 📫 How to reach me **mirriaz47@gmail.com**
 
