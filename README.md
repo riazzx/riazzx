@@ -1,9 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mir Riaz Ali!</h1>
+Full Stack Developer
+--------------------
+
+Hello! I am a recent graduate with a BSc in IT from Middlesex University Dubai. I have a passion for developing websites using the MERN and MEVN tech stacks. As a natural leader and team worker, I enjoy collaborating with others to bring projects to life. I possess an enthusiastic "yes-can-do" attitude and am always eager to learn and tackle new challenges. During my studies, I gained valuable experience working on various web development projects that allowed me to hone my skills in HTML, CSS, JavaScript, and React. I am well-versed in using Git for version control and have experience working with both MongoDB and MySQL databases. As a self-motivated and detail-oriented individual, I am committed to delivering high-quality work that meets the needs of both clients and end-users. I am always looking for opportunities to expand my knowledge and stay up-to-date with the latest web development trends and technologies.
 <h3 align="center">A passionate full stack developer and a recent graduate from Middlesex University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riazzx&label=Profile%20views&color=0e75b6&style=flat" alt="riazzx" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riazzx" alt="riazzx" /></a> </p>
+
+*   🌍  I'm based in Dubai
+*   🖥️  See my portfolio at [My Portfolio](http://riazzx.github.io/portfolio)
+*   ✉️  You can contact me at [mirriaz47@gmail.com](mailto:mirriaz47@gmail.com)
+*   🧠  I'm learning NextJS and ShadCN
+*   ⚡  I love to cook, play fifa, and fix stuff.### Skills 
 
 - 🌱 I’m currently learning **React, NextJS, Tailwind, ShadCN and Webflow.**
 
